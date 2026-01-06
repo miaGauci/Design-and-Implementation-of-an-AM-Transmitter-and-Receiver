@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-an-AM-Transmitter-and-Receiver
+The project involves amplifying an audio signal and mixing it with an 800 kHz carrier signal for transmission. The transmitted signal is received within a short range, down converted to a 100 kHz intermediate frequency, filtered, and demodulated using an envelope detector. The resulting audio signal is then amplified and output through a speaker.
